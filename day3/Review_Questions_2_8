@@ -1,0 +1,14 @@
+1. If - 1 choice. 0 chosen possible. If-else 2 choices. 1 chosen always.
+2. Boolean values
+3. Step Over -> line by line
+4. If inside if
+5. Guess and check pattern
+6. Assume some output value (set variable) and check you should change it.
+7. True and False values
+8. If you are using not with them
+9. if false and true . True (second) in this case won't be evaluated
+10. You have to take some level of checking (if diff less than 1%% than are equal)
+11.
+    You entered an invalid integer .
+    <NameError> exception
+
