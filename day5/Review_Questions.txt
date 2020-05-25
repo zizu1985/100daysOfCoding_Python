@@ -1,0 +1,29 @@
+1. What are the two ways to import module? How do the differ ? What are the advantages of each method of importing?
+    import turtle
+    from turtle import Turtle
+
+    First import entire module, but prefix should be defined to allow, ie. turtle.Turtle()
+    Second it is imported into this namespace, so turtle prefix is not required.
+2. How do you contruct an object? In general, what do you have to write to call a constructor?
+    import turtle
+    t = turtle.Turtle()
+3. What happens when you construct an object?
+    New reference is created to memory where data is stored. New object is created.
+4. What is the purpose of accessor method?
+    It is used to get some values/state of the object. It is read only action. It doesn't modify object's data.
+5. What is the purpose of a mutator method?
+    It modifies object's state.
+6. Does every class contain both mutator and accessor methods? If so, why? If not, give an example when this is not true.
+    No. Only accessor -> something which cannot be changed (buildings).
+7. What does an XML file contain?
+    It contained structured tags with attributes.
+8. How do you read an XML file in program?
+    Using xml.dom.minidom . From xml.dom module
+9. What is an attribute in an XML file ? Give an example.
+    It is assigned to tag element. For example command could have location, color as attributes.
+10. What type of value does the method getElementsByTagName return when it is called?
+    DOM class ???
+11. What is dictionary?
+    It is collection which holds key-values pairs which distinct values for key.
+12. What are parallel lists? Why are they necessary in some cases?
+    Parallel list stored object splashed horizontally to allow access all its attributes using single index.
