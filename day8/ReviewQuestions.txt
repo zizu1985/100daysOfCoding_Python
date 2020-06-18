@@ -1,0 +1,16 @@
+1. How are a event-driven program and simple sequential program the same ?
+    No. Event-driven program has mainLoop and dispatch events to handlers.
+2. What distinguishes an event-driven program from sequential program ?
+    mainLoop
+3. What is an API?
+    API is library.
+4. Name two APIs that are available in Python.
+    What does each API do for you as a programme?
+
+    Tk - GUI
+    TensorFlow - operation on Machine Learning
+
+5. What is a widget?
+    Element to put into GUI.
+
+6.
